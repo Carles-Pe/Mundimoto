@@ -1,5 +1,7 @@
 Mundimoto Webapp:
 
+(NOTE): This version does not contain the virtual environment due to storage limitations, some packages re required to install
+
 Hi, we present to you our 36 hour project where we decided to combine webapps with machine learning:
 
 - The platform consists on an app (for now...) that allows to control the database
