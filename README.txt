@@ -16,7 +16,7 @@ Hi, we present to you our 36 hour project where we decided to combine webapps wi
     (this-folder/mundimoto)# python3 manage.py runserver
     
 - Keep in mind that the postgres deamon must be active in order to work:
-    # sudo service start postgresql
+    # sudo service postgresql start
     # sudo -u postgres psql
     #> psql mundiauto < mundiauto.sql
     
